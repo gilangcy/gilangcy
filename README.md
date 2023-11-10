@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Cey, a technology scientist that loves to building product, exploring data and learn new things. In the future, I have dream to building product that can solves big problem in the world. I have various experiences in product engineering, from Product Management, Frontend, Backend, DevOps, Artificial Intelligence and Quality Assurance Testing. 
+..
 <!--
 **gilangcy/gilangcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
